@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					FC4F7CC21DD200BA00CD3EC4 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 87WQDJ5HN9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87WQDJ5HN9;
 				INFOPLIST_FILE = Quiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.testApplication.Quiz;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87WQDJ5HN9;
 				INFOPLIST_FILE = Quiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.testApplication.Quiz;
