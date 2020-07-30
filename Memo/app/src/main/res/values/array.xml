@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company">
+        <item>"Apple"</item>
+        <item>"Samsung"</item>
+        <item>"KIA"</item>
+    </string-array>
+</resources>
